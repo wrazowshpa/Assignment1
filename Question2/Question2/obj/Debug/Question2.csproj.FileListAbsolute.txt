@@ -1,0 +1,10 @@
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.Form1.resources
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\manso\OneDrive\Desktop\Soft Eng\Programming 3\assignments\assignment1\300802070(Mehraban)_ASS#1\Question2\Question2\obj\Debug\Question2.pdb
